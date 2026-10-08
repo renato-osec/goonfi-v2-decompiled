@@ -1,0 +1,12 @@
+[package]
+name = "goonfi-common"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["lib"]
+
+[dependencies]
+pinocchio = "=0.9.2"
+pinocchio-token = "=0.4.0"
+pinocchio-token-2022 = "=0.1.0"

@@ -1,0 +1,8 @@
+[package]
+name = "oracle-asm"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pinocchio-pubkey = "=0.3.0"
+bytemuck = { version = "=1.25.2", features = ["derive"] }

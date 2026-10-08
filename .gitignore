@@ -1,0 +1,5 @@
+target/
+goonfi.so
+programdata.bin
+onchain.bin
+platform-tools-v1.48/
